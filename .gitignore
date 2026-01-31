@@ -22,3 +22,6 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+api_gemini.py
+api_lite.py
+api.py
